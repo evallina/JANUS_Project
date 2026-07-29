@@ -21,13 +21,13 @@ And a third, quieter reason: a day's worth of obligations rendered as a dense li
 ## The loop
 
 ```
-  7:00 AM   Claude gathers → builds the brief → you get an HTML file
+  6:00 AM   Claude gathers → builds the brief → you get an HTML file
      ↓
   All day   You check items off, leave comments, add calendar events
      ↓
   Evening   Export Markdown → send it to yourself
      ↓
-  7:00 AM   Claude ingests it: ledger updated, events created, memory learned
+  6:00 AM   Claude ingests it: ledger updated, events created, memory learned
 ```
 
 Each morning the scheduled task:
