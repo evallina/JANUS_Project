@@ -4,6 +4,8 @@
 
 JANUS turns a Claude scheduled task into a morning chief-of-staff. Each day it reads your task ledger, inbox and calendar, then delivers the brief as an interactive HTML page — one you work inside all day and hand back at night.
 
+![JANUS daily brief: week calendar, brief summary, mood check, the week ahead and today's prioritized tasks](janus_mockup_03.png)
+
 This repo holds one thing: the brief's design template. No personal data lives here.
 
 ## The loop
